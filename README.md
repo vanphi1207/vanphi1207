@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=735&lines=Backend+Developer;Always+learning+new+things!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF6B6B&multiline=true&center=true&vCenter=true&width=600&height=100&lines=🚀+Backend+Developer;🔥+Always+learning+new+things!)
   
 </div>
 
@@ -11,8 +11,6 @@
 💻 I am a third-year student majoring in Computer Science, focusing on becoming a backend developer. Currently, I'm working on a few small projects, learning some new technologies, and spending time honing my programming skills to prepare for the future.
 
 👯 Looking to collaborate on open-source backend projects
-
-💬 Ask me about APIs, databases, system architecture, and performance optimization
 
 📫 How to reach me: trnphi127@gmail.com
 
@@ -67,19 +65,16 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihqqqqq)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trnphi127@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ihqqqq)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ihqqq)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💭 Quote of the Day
-*"First, solve the problem. Then, write the code." - John Johnson*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vanphi1207&color=brightgreen&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/vanphi1207?label=Follow&style=social)](https://github.com/vanphi1207)
