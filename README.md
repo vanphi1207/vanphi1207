@@ -82,8 +82,8 @@
 ### 💭 Quote of the Day
 *"First, solve the problem. Then, write the code." - John Johnson*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=vanphi1207&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/vanphi1207?label=Follow&style=social)](https://github.com/yourusername)
 
 **Thanks for visiting! 😊**
 
