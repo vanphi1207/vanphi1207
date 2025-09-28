@@ -8,9 +8,24 @@
 
 ## 🚀 About Me
 
+<div align="center">
+<table>
+<tr>
+<td width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+
+</td>
+<td width="60%">
+
 💻 I am a third-year student majoring in Computer Science, focusing on becoming a backend developer. Currently, I'm working on a few small projects, learning some new technologies, and spending time honing my programming skills to prepare for the future.
 
 📫 How to reach me: trnphi127@gmail.com
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
