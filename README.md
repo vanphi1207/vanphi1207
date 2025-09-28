@@ -10,8 +10,6 @@
 
 💻 I am a third-year student majoring in Computer Science, focusing on becoming a backend developer. Currently, I'm working on a few small projects, learning some new technologies, and spending time honing my programming skills to prepare for the future.
 
-👯 Looking to collaborate on open-source backend projects
-
 📫 How to reach me: trnphi127@gmail.com
 
 ---
