@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Phi
 
 <div align="center">
   
@@ -18,34 +18,26 @@
 
 💬 Ask me about **APIs, databases, system architecture, and performance optimization**
 
-📫 How to reach me: **[your.email@example.com]**
-
-⚡ Fun fact: **I debug with console.log and I'm not ashamed! 😄**
+📫 How to reach me: **trnphi127@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### Backend Frameworks
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -58,8 +50,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
@@ -74,45 +64,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-### 🚀 [Microservices E-commerce Platform](https://github.com/yourusername/ecommerce-microservices)
-**Tech:** Node.js, Docker, Kubernetes, PostgreSQL, Redis, RabbitMQ
-- Scalable microservices architecture handling 10k+ concurrent users
-- Event-driven communication between services
-- Implemented CQRS pattern and API Gateway
-- **⭐ 150+ stars**
-
-### 📊 [Real-time Analytics API](https://github.com/yourusername/analytics-api)
-**Tech:** Python, FastAPI, ClickHouse, Apache Kafka, Docker
-- High-performance analytics processing 1M+ events/day
-- Real-time data streaming and aggregation
-- RESTful API with sub-100ms response times
-- **⭐ 89+ stars**
-
-### 🔐 [JWT Authentication Service](https://github.com/yourusername/auth-service)
-**Tech:** Go, PostgreSQL, Redis, Docker, JWT
-- Secure authentication microservice
-- Rate limiting and security middleware
-- OAuth2 integration with social providers
-- **⭐ 67+ stars**
-
----
-
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)
 
 ---
 
@@ -136,19 +87,6 @@
 - 📚 Learning **System Design** and **Distributed Systems**
 - 🌐 Contributing to **open-source projects**
 - 📝 Writing technical blog posts about backend development
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable APIs with Node.js and PostgreSQL](https://yourblog.com/scalable-apis)
-- [Database Optimization Techniques for High Traffic Applications](https://yourblog.com/db-optimization)
-- [Microservices Communication Patterns](https://yourblog.com/microservices-patterns)
-- [Implementing CQRS with Event Sourcing](https://yourblog.com/cqrs-event-sourcing)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://yourblog.com)
 
 ---
 
