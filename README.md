@@ -11,12 +11,12 @@
 <div align="center">
 <table>
 <tr>
-<td width="40%">
+<td width="30%">
 
 <img src="https://i.pinimg.com/originals/4b/ae/e9/4baee94ad8634680ebd9cbf372f9888e.gif" width="300" alt="Coding GIF"/>
 
 </td>
-<td width="60%">
+<td width="70%">
 
 💻 I am a third-year student majoring in Computer Science, focusing on becoming a backend developer. Currently, I'm working on a few small projects, learning some new technologies, and spending time honing my programming skills to prepare for the future.
 
