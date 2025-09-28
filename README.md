@@ -13,7 +13,7 @@
 <tr>
 <td width="40%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+<img src="https://i.pinimg.com/originals/4b/ae/e9/4baee94ad8634680ebd9cbf372f9888e.gif" width="300" alt="Coding GIF"/>
 
 </td>
 <td width="60%">
