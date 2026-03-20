@@ -10,8 +10,9 @@ I enjoy building projects, learning new technologies, and improving my coding sk
 </p>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<ul>
+
 <h2>⚡️ A Few Quick Facts</h2>
+<ul>
 <li>🔭 I’m currently working on improving my <strong>Java backend skills</strong>.</li>
 <li>🧐 Learning about <strong>Spring Boot</strong>, <strong>REST APIs</strong>, and <strong>Database Design</strong>.</li>
 <li>👨‍💻 Practicing building real-world backend projects.</li>
