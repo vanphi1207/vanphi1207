@@ -9,7 +9,7 @@ I enjoy building projects, learning new technologies, and improving my coding sk
 🍌 Don't forget to get some Potassium 🍌
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
