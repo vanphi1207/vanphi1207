@@ -30,7 +30,6 @@ I enjoy building projects, learning new technologies, and improving my coding sk
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25" />
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vanphi1207&show_icons=true&count_private=true" alt="github stats" />
