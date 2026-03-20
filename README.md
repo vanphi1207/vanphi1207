@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm <a href="#">Phi</a></h2>
 <p>
 I'm currently a <strong>3rd-year Information Technology student</strong> focusing on 
-<strong>Java Backend Development</strong>. 
+<strong>Backend Development</strong>. 
 I enjoy building projects, learning new technologies, and improving my coding skills every day 🚀
 </p>
 
@@ -13,7 +13,7 @@ I enjoy building projects, learning new technologies, and improving my coding sk
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on improving my <strong>Java backend skills</strong>.</li>
+<li>🔭 I’m currently working on improving my <strong>backend skills</strong>.</li>
 <li>🧐 Learning about <strong>Spring Boot</strong>, <strong>REST APIs</strong>, and <strong>Database Design</strong>.</li>
 <li>👨‍💻 Practicing building real-world backend projects.</li>
 <li>📝 Trying to write technical notes and document what I learn.</li>
