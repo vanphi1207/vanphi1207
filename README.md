@@ -1,62 +1,35 @@
-# Hi there! 👋 I'm Phi
+<h2>Hey 👋, I'm <a href="#">Phi</a></h2>
+<p>
+I'm currently a <strong>3rd-year Information Technology student</strong> focusing on 
+<strong>Java Backend Development</strong>. 
+I enjoy building projects, learning new technologies, and improving my coding skills every day 🚀
+</p>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&width=600&lines=Backend+Developer;Always+learning+new+things)](https://git.io/typing-svg)
-  
-</div>
+<p>
+🍌 Don't forget to get some Potassium 🍌
+</p>
 
-## 🚀 About Me
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<ul>
+<h2>⚡️ A Few Quick Facts</h2>
+<li>🔭 I’m currently working on improving my <strong>Java backend skills</strong>.</li>
+<li>🧐 Learning about <strong>Spring Boot</strong>, <strong>REST APIs</strong>, and <strong>Database Design</strong>.</li>
+<li>👨‍💻 Practicing building real-world backend projects.</li>
+<li>📝 Trying to write technical notes and document what I learn.</li>
+<li>🎯 Goal: Become a professional backend developer.</li>
+<li>🎉 Fun Fact: Always learning something new every day!</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/vanphi1207">Github</a>.</li>
+</ul>
+<h2>🚀 Some Tools I Use</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25" />
+</p>
 
-<div align="center">
-<table>
-<tr>
-<td width="30%">
-
-<img src="https://i.pinimg.com/originals/4b/ae/e9/4baee94ad8634680ebd9cbf372f9888e.gif" width="300" alt="Coding GIF"/>
-
-</td>
-<td width="70%">
-
-💻 I am a third-year student majoring in Infomation Technology, focusing on becoming a backend developer. Currently, I'm working on a few small projects, learning some new technologies, and spending time honing my programming skills to prepare for the future.
-
-📫 How to reach me: trnphi127@gmail.com
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanphi1207&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihqqqqq)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trnphi127@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ihqqqq)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ihqqq)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=vanphi1207&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/vanphi1207?label=Follow&style=social)](https://github.com/vanphi1207)
-
-Thanks for visiting! 😊
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=vanphi1207&show_icons=true&count_private=true" alt="github stats" />
