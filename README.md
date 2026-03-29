@@ -32,4 +32,5 @@ I enjoy building projects, learning new technologies, and improving my coding sk
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="25" height="25" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vanphi1207&show_icons=true&count_private=true" alt="github stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=vanphi1207&show_icons=true&count_private=true" alt="github stats" /> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanphi1207&theme=tokyonight" />
